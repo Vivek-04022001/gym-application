@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Beginner Full Body",
+    "exercises": [
+      {
+        "name": "Push-ups",
+        "sets": 3,
+        "reps": 10,
+        "rest": "1 minute"
+      },
+      {
+        "name": "Squats",
+        "sets": 3,
+        "reps": 15,
+        "rest": "1 minute"
+      },
+      {
+        "name": "Plank",
+        "sets": 3,
+        "time": "30 seconds",
+        "rest": "1 minute"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Advanced Strength",
+    "exercises": [
+      {
+        "name": "Deadlifts",
+        "sets": 4,
+        "reps": 5,
+        "rest": "2 minutes"
+      },
+      {
+        "name": "Bench Press",
+        "sets": 4,
+        "reps": 8,
+        "rest": "2 minutes"
+      },
+      {
+        "name": "Pull-ups",
+        "sets": 4,
+        "reps": "max",
+        "rest": "2 minutes"
+      }
+    ]
+  }
+]

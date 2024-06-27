@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Yoga",
+    "instructor": "Alice Johnson",
+    "schedule": "Monday 6 PM",
+    "description": "A relaxing yoga session to improve flexibility and strength."
+  },
+  {
+    "id": 2,
+    "name": "Pilates",
+    "instructor": "Bob Brown",
+    "schedule": "Wednesday 7 PM",
+    "description": "A challenging pilates class for core strength and stability."
+  },
+  {
+    "id": 3,
+    "name": "Zumba",
+    "instructor": "Carla Martinez",
+    "schedule": "Friday 5 PM",
+    "description": "An energetic dance fitness class to boost your cardio."
+  },
+  {
+    "id": 4,
+    "name": "HIIT",
+    "instructor": "David Lee",
+    "schedule": "Tuesday 6 AM",
+    "description": "High-intensity interval training for a full-body workout."
+  },
+  {
+    "id": 5,
+    "name": "Spin",
+    "instructor": "Eva Green",
+    "schedule": "Thursday 6 PM",
+    "description": "An intense cycling class for improving cardiovascular health."
+  },
+  {
+    "id": 6,
+    "name": "Boxing",
+    "instructor": "Frank White",
+    "schedule": "Saturday 10 AM",
+    "description": "A boxing class focused on technique and endurance."
+  },
+  {
+    "id": 7,
+    "name": "CrossFit",
+    "instructor": "George Black",
+    "schedule": "Wednesday 8 AM",
+    "description": "A strength and conditioning workout for overall fitness."
+  },
+  {
+    "id": 8,
+    "name": "Kickboxing",
+    "instructor": "Hannah Brown",
+    "schedule": "Monday 7 PM",
+    "description": "A high-energy class combining martial arts and cardio."
+  },
+  {
+    "id": 9,
+    "name": "Strength Training",
+    "instructor": "Ian Red",
+    "schedule": "Friday 6 AM",
+    "description": "A class focusing on building muscle and strength."
+  },
+  {
+    "id": 10,
+    "name": "Meditation",
+    "instructor": "Jack Blue",
+    "schedule": "Sunday 8 AM",
+    "description": "A peaceful meditation class to calm your mind and body."
+  }
+]

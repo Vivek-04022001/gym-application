@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "type": "Monthly",
+    "cost": 50,
+    "benefits": ["Access to all classes", "Free personal training session"]
+  },
+  {
+    "id": 2,
+    "type": "Annual",
+    "cost": 500,
+    "benefits": [
+      "Access to all classes",
+      "10 personal training sessions",
+      "Priority booking"
+    ]
+  }
+]

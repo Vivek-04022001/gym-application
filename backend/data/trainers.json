@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "specialty": "Yoga, Pilates",
+    "experience": "5 years",
+    "contact": "alice.johnson@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Bob Brown",
+    "specialty": "HIIT, Strength Training",
+    "experience": "7 years",
+    "contact": "bob.brown@example.com"
+  }
+]
